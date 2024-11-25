@@ -1,1 +1,3 @@
 # Bayesian Adaptive Trials for Social Policy
+
+The code in this repository accompanies the paper "Bayesian Adaptive Trials for Social Policy", to be published in Data and Policy.   The code simulates a Bayesian Adaptive Trial to demonstrate that the use of an adaptive rather than fixed trial framework subtantially reduces the observation sample size required to reach a pre-determined level of accuracy.  The numerical example considers a practical scenario where education policymakers designing a tutoring program need to determine the optimal tutoring intensity -- the number of tutoring hours provided to students each month.  
